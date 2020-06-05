@@ -1,9 +1,9 @@
 [![CircleCI](https://circleci.com/gh/broderickhyman/albiondata-client/tree/master.svg?style=svg)](https://circleci.com/gh/broderickhyman/albiondata-client/tree/master) [![Go Report Card](https://goreportcard.com/badge/github.com/broderickhyman/albiondata-client)](https://goreportcard.com/report/github.com/broderickhyman/albiondata-client)
 
-# Albion Data - Client
-Distributed client for the [Albion Online Data](https://www.albion-online-data.com/)
-project.
+# Albion Market Client
 
+A fork of the [Albion Online Data](https://www.albion-online-data.com/) client for getting market data for local use. Personally one of the greatest strengths of the Albion Data Project is also one of the its biggest weaknesses, the data is publicly availble and therefore has to be ratelimited and retrieval is slow. This fork is build specifically to grab data for local and immediate use. However, this also means you have to go and grab the data yourself.
+------
 A quick note on the legality of this application and if it
 violates the Terms and Conditions for Albion Online. Here is
 the response from SBI when asked if we are allowed to do
